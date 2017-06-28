@@ -1,4 +1,4 @@
-Below will be list of decentralized apps that can be built on Blockstack.  
+Below will be a list of decentralized apps that can be built on Blockstack.  
 Successful merges get paid $10 in bitcoin. 
 Anyone can contribute. 
 Limit 1 pull request per idea.
